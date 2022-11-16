@@ -7,7 +7,7 @@ Inquisitivo y curioso por naturaleza, me gusta aprender y saber el por qué de l
 Habilidades: Javascript, HTML, CSS, REACT, FLASK, PYTHON
 
 - 🔭 Estoy trabajando en nunca dejar de aprender. Póximos objetivos Typescript, nextJS, profundizar en python y BBDD
-- 🌱 Estoy aprendiendo Typescript, nextJS 
+- 🌱 Estoy afianzando conocimientos de React
 - 📫 Cómo contactarme: scentmay@gmail.com 
 
 
